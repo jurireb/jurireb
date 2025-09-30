@@ -1,5 +1,16 @@
-## Hi there 👋
+## Hi There! 👋
 
+I'm **Juri**, an indie software developer with eyes of wonder.
+
+I am passionate about learning technologies specially in the field of SWE, AI (NLP) and Cybersecurity thereafter, incorporating these learnings into building impactful applications and projects.
+
+>My plethora of interests:
+  + learning languages
+  + creating digital art
+  + reading books
+  + coffee
+  + circular economy
+  + exploring "how stuff works"
 <!--
 **jurireb/jurireb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
